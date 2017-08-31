@@ -9,8 +9,7 @@ __To do:__
 1. ~~...and dogs maybe~~
 1. [spatial data science](http://r4ds.had.co.nz)
 1. Learn to code
-![](7tffjb.jpg)
-Format: ![Alt Text](url)
+!(7tffjb.jpg)
  
  Pointless quote part one | Pointless quote part two
  -------------------------|-------------------------
