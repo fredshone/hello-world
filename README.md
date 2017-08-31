@@ -1,6 +1,6 @@
 # hello-world
 ## welcome to my world :grimacing:
-  *experiments with* **syntax**
+  *aweful experiments with* **syntax**
   
 __To do:__
 
@@ -17,4 +17,4 @@ __To do:__
  We're living the future so | the present is our past.
  Get some work done Fred | for fucks sake.
 
-:flashlight:
+:unlock:
