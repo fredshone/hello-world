@@ -1,6 +1,6 @@
 # hello-world
 ## welcome to my world :grimacing:
-  *aweful experiments with* **syn_ta_x**
+  *aweful experiments with* **syn**_ta_**x**
   
 __To do:__
 
