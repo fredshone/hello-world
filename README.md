@@ -14,6 +14,6 @@ __To do:__
  Pointless quote part one | Pointless quote part two
  -------------------------|-------------------------
  We're living the future so | the present is our past.
- Get some work done Fred | for fucks sake.
+ Get some work done Fred | for f***s sake.
 
 :unlock::rocket:
